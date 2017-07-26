@@ -2,7 +2,6 @@ Name:   haskell-platform
 Version:    8.0.2
 Release:    1%{?dist}
 Summary:    RHEL7 workaround
-BuildArch:  %{_arch}
 BuildRequires:  mesa-libGL 
 BuildRequires:  mesa-libGLU
 
